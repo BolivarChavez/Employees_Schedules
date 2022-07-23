@@ -64,4 +64,4 @@ Frameworks and Drivers: The project OfficeTime.Con contains the console applicat
 
 # Instruction for exceution.
 
-Open the EmployeeOfficeTime.sln using Visual Studio 2019 o 2022, the proyect uses the Net Core 3.1 framework and it is implemented using C#. Once the solution in opened, the layers described in the previous section will appear, then just execute the solution and the console app will run. The user will be asked to type the path and file name, and the app will return either the expected result or a list of errors.
+Please open the EmployeeOfficeTime.sln using Visual Studio 2019 o 2022, the proyect uses the Net Core 3.1 framework and it is implemented using C#. Once the solution in opened, the layers described in the previous section will appear, then just execute the solution and the console app will run. The user will be asked to type the path and file name, and the app will return either the expected result or a list of errors. I have included a file testoffice.txt with test data, please remember the input data to the console app is the path and filename of the text file.
