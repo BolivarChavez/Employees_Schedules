@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OfficeTime.Test/1.0.0": {
+        "dependencies": {
+          "OfficeTime.Entities": "1.0.0"
+        },
+        "runtime": {
+          "OfficeTime.Test.dll": {}
+        }
+      },
+      "OfficeTime.Entities/1.0.0": {
+        "runtime": {
+          "OfficeTime.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OfficeTime.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OfficeTime.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

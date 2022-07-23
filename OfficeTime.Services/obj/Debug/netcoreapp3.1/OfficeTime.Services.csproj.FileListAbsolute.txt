@@ -1,0 +1,13 @@
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\bin\Debug\netcoreapp3.1\OfficeTime.Services.deps.json
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\bin\Debug\netcoreapp3.1\OfficeTime.Services.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\bin\Debug\netcoreapp3.1\OfficeTime.Services.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\bin\Debug\netcoreapp3.1\OfficeTime.Entities.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\bin\Debug\netcoreapp3.1\OfficeTime.Entities.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\obj\Debug\netcoreapp3.1\OfficeTime.Services.csproj.AssemblyReference.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\obj\Debug\netcoreapp3.1\OfficeTime.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\obj\Debug\netcoreapp3.1\OfficeTime.Services.AssemblyInfoInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\obj\Debug\netcoreapp3.1\OfficeTime.Services.AssemblyInfo.cs
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\obj\Debug\netcoreapp3.1\OfficeTime.Services.csproj.CoreCompileInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\obj\Debug\netcoreapp3.1\OfficeTime.Services.csproj.CopyComplete
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\obj\Debug\netcoreapp3.1\OfficeTime.Services.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\obj\Debug\netcoreapp3.1\OfficeTime.Services.pdb

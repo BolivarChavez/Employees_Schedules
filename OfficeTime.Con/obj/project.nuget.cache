@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjj+s+iYkwhxph3zTpkZrg7pZhiBbLt3jwOOsi6y2LDlAcj9OvaVKPYHTkGGijKJfb5sQ0ixyNi5qkv6+7Dt2w==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\NetCore\\CleanArchitecture\\EmployeeOfficeTime\\EmployeeOfficeTime\\OfficeTime.Con\\OfficeTime.Con.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bchavez\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\bchavez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\bchavez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

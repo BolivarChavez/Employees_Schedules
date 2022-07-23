@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cc/VWw/YjaUKv8Gh7RyigSdd/RlWF+DHkI/4YDXlAd9IZ5mhjmUjxtdcwvZHxYVX5n8FCi5BpxSJWTJdQGHwGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\NetCore\\CleanArchitecture\\EmployeeOfficeTime\\EmployeeOfficeTime\\OfficeTime.Repositories\\OfficeTime.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bchavez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

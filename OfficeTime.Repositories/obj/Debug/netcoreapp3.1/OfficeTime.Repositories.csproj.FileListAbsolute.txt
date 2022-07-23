@@ -1,0 +1,13 @@
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\bin\Debug\netcoreapp3.1\OfficeTime.Repositories.deps.json
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\bin\Debug\netcoreapp3.1\OfficeTime.Repositories.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\bin\Debug\netcoreapp3.1\OfficeTime.Repositories.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\bin\Debug\netcoreapp3.1\OfficeTime.Entities.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\bin\Debug\netcoreapp3.1\OfficeTime.Entities.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\obj\Debug\netcoreapp3.1\OfficeTime.Repositories.csproj.AssemblyReference.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\obj\Debug\netcoreapp3.1\OfficeTime.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\obj\Debug\netcoreapp3.1\OfficeTime.Repositories.AssemblyInfoInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\obj\Debug\netcoreapp3.1\OfficeTime.Repositories.AssemblyInfo.cs
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\obj\Debug\netcoreapp3.1\OfficeTime.Repositories.csproj.CoreCompileInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\obj\Debug\netcoreapp3.1\OfficeTime.Repositories.csproj.CopyComplete
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\obj\Debug\netcoreapp3.1\OfficeTime.Repositories.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Repositories\obj\Debug\netcoreapp3.1\OfficeTime.Repositories.pdb

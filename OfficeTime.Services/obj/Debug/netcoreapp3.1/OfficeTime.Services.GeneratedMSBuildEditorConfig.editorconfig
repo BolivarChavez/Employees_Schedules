@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OfficeTime.Services
+build_property.ProjectDir = C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Services\

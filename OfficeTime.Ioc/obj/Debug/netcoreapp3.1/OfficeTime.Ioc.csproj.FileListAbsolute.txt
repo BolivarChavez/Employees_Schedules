@@ -1,0 +1,17 @@
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Ioc.deps.json
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Ioc.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Ioc.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Entities.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Repositories.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Services.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Repositories.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Services.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\bin\Debug\netcoreapp3.1\OfficeTime.Entities.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\obj\Debug\netcoreapp3.1\OfficeTime.Ioc.csproj.AssemblyReference.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\obj\Debug\netcoreapp3.1\OfficeTime.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\obj\Debug\netcoreapp3.1\OfficeTime.Ioc.AssemblyInfoInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\obj\Debug\netcoreapp3.1\OfficeTime.Ioc.AssemblyInfo.cs
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\obj\Debug\netcoreapp3.1\OfficeTime.Ioc.csproj.CoreCompileInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\obj\Debug\netcoreapp3.1\OfficeTime.Ioc.csproj.CopyComplete
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\obj\Debug\netcoreapp3.1\OfficeTime.Ioc.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Ioc\obj\Debug\netcoreapp3.1\OfficeTime.Ioc.pdb

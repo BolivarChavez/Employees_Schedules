@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pyskvoluare/9C+e1Vt6XBF9iUukV09qqzB3d4y14ZEsFh8umPcQtWRlNrPPl+bQ8wPt3QtiXa8OCa61fwHqhw==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\NetCore\\CleanArchitecture\\EmployeeOfficeTime\\EmployeeOfficeTime\\OfficeTime.Ioc\\OfficeTime.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bchavez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

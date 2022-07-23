@@ -1,0 +1,10 @@
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\bin\Debug\netcoreapp3.1\OfficeTime.Entities.deps.json
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\bin\Debug\netcoreapp3.1\OfficeTime.Entities.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\bin\Debug\netcoreapp3.1\OfficeTime.Entities.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\obj\Debug\netcoreapp3.1\OfficeTime.Entities.csproj.AssemblyReference.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\obj\Debug\netcoreapp3.1\OfficeTime.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\obj\Debug\netcoreapp3.1\OfficeTime.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\obj\Debug\netcoreapp3.1\OfficeTime.Entities.AssemblyInfo.cs
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\obj\Debug\netcoreapp3.1\OfficeTime.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\obj\Debug\netcoreapp3.1\OfficeTime.Entities.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Entities\obj\Debug\netcoreapp3.1\OfficeTime.Entities.pdb

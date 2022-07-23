@@ -1,0 +1,13 @@
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\bin\Debug\netcoreapp3.1\OfficeTime.Test.deps.json
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\bin\Debug\netcoreapp3.1\OfficeTime.Test.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\bin\Debug\netcoreapp3.1\OfficeTime.Test.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\bin\Debug\netcoreapp3.1\OfficeTime.Entities.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\bin\Debug\netcoreapp3.1\OfficeTime.Entities.pdb
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\obj\Debug\netcoreapp3.1\OfficeTime.Test.csproj.AssemblyReference.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\obj\Debug\netcoreapp3.1\OfficeTime.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\obj\Debug\netcoreapp3.1\OfficeTime.Test.AssemblyInfoInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\obj\Debug\netcoreapp3.1\OfficeTime.Test.AssemblyInfo.cs
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\obj\Debug\netcoreapp3.1\OfficeTime.Test.csproj.CoreCompileInputs.cache
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\obj\Debug\netcoreapp3.1\OfficeTime.Test.csproj.CopyComplete
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\obj\Debug\netcoreapp3.1\OfficeTime.Test.dll
+C:\Proyectos\NetCore\CleanArchitecture\EmployeeOfficeTime\EmployeeOfficeTime\OfficeTime.Test\obj\Debug\netcoreapp3.1\OfficeTime.Test.pdb
